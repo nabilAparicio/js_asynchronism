@@ -1,0 +1,14 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismos en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callbacks/index.js"
+  },
+  "keywords": [
+    "callbacks"
+  ],
+  "author": "Nabil Aparicio <admin@admin.com>",
+  "license": "MIT"
+}
